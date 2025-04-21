@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-A modern, serverless **Hospital Management System** built with a full-stack architecture.  
+A modern, full-stack **Hospital Management System** with a **serverless backend architecture**.  
 This project includes:
 
 - ✨ A **frontend** for general users (patients, visitors)
